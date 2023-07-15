@@ -1,4 +1,4 @@
-(self.webpackChunkpj_gptai=self.webpackChunkpj_gptai||[]).push([[736],{755:function(e,t){var n;
+(self.webpackChunkpj_xxxxxx=self.webpackChunkpj_xxxxxx||[]).push([[736],{755:function(e,t){var n;
 /*!
  * jQuery JavaScript Library v3.6.0
  * https://jquery.com/

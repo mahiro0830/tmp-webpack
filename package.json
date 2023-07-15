@@ -1,5 +1,5 @@
 {
-  "name": "pj-gptai",
+  "name": "pj-xxxxxx",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js",
     "dev": "webpack --config webpack.dev.js",
@@ -36,13 +36,8 @@
     "webpack-merge": "^5.0.9"
   },
   "dependencies": {
-    "animate.css": "^4.1.1",
     "core-js": "^3.22.7",
     "jquery": "^3.6.0",
-    "object-fit-images": "^3.2.4",
-    "particles.js": "^2.0.0",
-    "regenerator-runtime": "^0.13.9",
-    "swiper": "^4.5.1",
-    "wow.js": "^1.2.2"
+    "regenerator-runtime": "^0.13.9"
   }
 }
